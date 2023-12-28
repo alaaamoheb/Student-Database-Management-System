@@ -1,6 +1,6 @@
 # Student-Database-Management-System
 This project is a simple Student Database Management System implemented in Python using the Tkinter library  and MySQL.
-# Features
+## Features
 
 * Add New Student: Allows you to add a new student to the database by providing relevant information.
 * Display Students: Displays a list of all students in the database.
@@ -9,11 +9,11 @@ This project is a simple Student Database Management System implemented in Pytho
 * Search Database: Searches for students based on provided criteria (StudentID, FirstName, LastName, etc.).
 * Update Student: Updates the information for a selected student.
 
-# Front End (Tkinter)
+## Front End (Tkinter)
 The front end of the application is implemented using the Tkinter library.
 It provides a user-friendly interface for interacting with the student database. The application allows you to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 
-# Back End (MySQL)
+## Back End (MySQL)
 The back end of the application uses MySQL as the database to store student information.
 The SMS_BackEnd.py module contains functions for interacting with the MySQL database, including adding new records, viewing all records, deleting records, searching records, and updating records.
