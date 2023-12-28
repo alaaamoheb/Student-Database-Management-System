@@ -14,12 +14,11 @@ This project is a simple Student Database Management System implemented in Pytho
 ## Technology Stack
 
 - **Frontend:**
-
-  The front end of the application is implemented using the Tkinter library.
-It provides a user-friendly interface for interacting with the student database. The application allows you to perform CRUD (Create, Read, Update, Delete) operations on student records.
+* Tkinter Library
+- It provides a user-friendly interface for interacting with the student database. The application allows you to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 
 
 - **Backend:**
-  The back end of the application uses MySQL as the database to store student information.
-The SMS_BackEnd.py module contains functions for interacting with the MySQL database, including adding new records, viewing all records, deleting records, searching records, and updating records.
+  * MySQL
+The SMS_backend.py module contains functions for interacting with the MySQL database, including adding new records, viewing all records, deleting records, searching records, and updating records.
