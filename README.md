@@ -14,7 +14,8 @@ This project is a simple Student Database Management System implemented in Pytho
 ## Technology Stack
 
 - **Frontend:**
-   * Tkinter Library
+   * Tkinter Library. 
+
   It provides a user-friendly interface for interacting with the student database. The application allows you to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 
